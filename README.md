@@ -1,5 +1,5 @@
 
-NeetCode150:
+NeetCode150: 🚀
 | Number | Difficulty | Problem name and code|
 |--------|------------|----------------------|
 | 217 | Easy | [Contains Duplicates](Arrays/217ContainsDuplicate.cpp) |
@@ -8,7 +8,7 @@ NeetCode150:
 | 49 | Medium | [Group Anagrams](Arrays/49GroupAnagrams.cpp) |
 
 
-**CoreSkills:**
+**CoreSkills:** 💻
 | Type | Difficulty | Problem name and code|
 |--------|------------|----------------------|
 | Implement Data Structures | Easy | [Dynamic Array](CoreSkills/DynamicArray.cpp) |

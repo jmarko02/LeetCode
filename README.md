@@ -8,8 +8,7 @@ NeetCode150:
 | 49 | Medium | [Group Anagrams](Arrays/49GroupAnagrams.cpp) |
 
 
-
-<span style="color:red;"><b>CoreSkills:</b></span>
+<span style="color:red;"><b>CoreSkills</b></span>:
 | Type | Difficulty | Problem name and code|
 |--------|------------|----------------------|
 | Implement Data Structures | Easy | [Dynamic Array](CoreSkills/DynamicArray.cpp) |

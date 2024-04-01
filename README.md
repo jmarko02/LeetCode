@@ -7,7 +7,9 @@ NeetCode150:
 | 1 | Easy | [Two Sum](Arrays/1TwoSum.cpp) |
 | 49 | Medium | [Group Anagrams](Arrays/49GroupAnagrams.cpp) |
 
-CoreSkills:
+
+
+<span style="color:red;"><b>CoreSkills:</b></span>
 | Type | Difficulty | Problem name and code|
 |--------|------------|----------------------|
 | Implement Data Structures | Easy | [Dynamic Array](CoreSkills/DynamicArray.cpp) |

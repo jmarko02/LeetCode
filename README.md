@@ -12,3 +12,4 @@ NeetCode150: 🚀
 | Type | Difficulty | Problem name and code|
 |--------|------------|----------------------|
 | Implement Data Structures | Easy | [Dynamic Array](CoreSkills/DynamicArray.cpp) |
+| Implement Data Structures | Easy | [Linked List](CoreSkills/LinkedList.cpp) |

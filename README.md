@@ -14,4 +14,4 @@ NeetCode150: 🚀
 |--------|------------|----------------------|
 | Implement Data Structures | Easy | [Dynamic Array](CoreSkills/DynamicArray.cpp) |
 | Implement Data Structures | Easy | [Linked List](CoreSkills/LinkedList.cpp) |
-| Sorting | Easy | [Insertion Sort](CoreSkills/InsertionSort.cpp) |
+| Sorting | Easy |  |

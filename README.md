@@ -2,12 +2,12 @@
 NeetCode150: 🚀
 | Number | Difficulty | Python |  C++  | 
 |--------|------------|--------|-------|
-| 217 | Easy | [Contains Duplicates C++](Arrays&Hashing/217ContainsDuplicate.cpp) | [Contains Duplicates Python](Arrays&Hashing/217ContainsDuplicate.py) |
-| 242 | Easy | [Valid Anagram C++](Arrays&Hashing/242ValidAnagram.cpp) | [Valid Anagram Python](Arrays&Hashing/242ValidAnagram.py) |
-| 1 | Easy | [Two Sum C++](Arrays&Hashing/1TwoSum.cpp) | [Two Sum Python](Arrays&Hashing/1TwoSum.cpp) |
-| 49 | Medium | [Group Anagrams C++](Arrays&Hashing/49GroupAnagrams.cpp) | [Group Anagrams Python](Arrays&Hashing/49GroupAnagrams.py) |
-| 271 | Medium | [EncodeAndDecodeStrings (Premium) Python](Arrays&Hashing/271EncodeAndDecodeStrings.py) | |
-| 347 | Medium |   [TopKFrequentElements Python](Arrays&Hashing/347TopKFrequentElements.py) | |
+| 217 | Easy | [Contains Duplicates ](Arrays&Hashing/217ContainsDuplicate.py) | [Contains Duplicates](Arrays&Hashing/217ContainsDuplicate.cpp) |
+| 242 | Easy | [Valid Anagram ](Arrays&Hashing/242ValidAnagram.py) | [Valid Anagram](Arrays&Hashing/242ValidAnagram.cpp) |
+| 1 | Easy | [Two Sum ](Arrays&Hashing/1TwoSum.py) | [Two Sum](Arrays&Hashing/1TwoSum.cpp) |
+| 49 | Medium | [Group Anagrams ](Arrays&Hashing/49GroupAnagrams.cpp) | [Group Anagrams](Arrays&Hashing/49GroupAnagrams.cpp) |
+| 271 | Medium | [EncodeAndDecodeStrings (Premium) ](Arrays&Hashing/271EncodeAndDecodeStrings.py) | |
+| 347 | Medium |   [TopKFrequentElements ](Arrays&Hashing/347TopKFrequentElements.py) | |
 
 **CoreSkills:** 💻
 | Type | Difficulty | Problem name and code|

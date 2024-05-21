@@ -7,7 +7,7 @@ NeetCode150: 🚀
 | 1 | Easy | [Two Sum C++](Arrays&Hashing/1TwoSum.cpp)      [Two Sum Python](Arrays&Hashing/1TwoSum.cpp) |
 | 49 | Medium | [Group Anagrams C++](Arrays&Hashing/49GroupAnagrams.cpp)        [Group Anagrams Python](Arrays&Hashing/49GroupAnagrams.py) |
 | 271 | Medium | [EncodeAndDecodeStrings (Premium) Python](Arrays&Hashing/271EncodeAndDecodeStrings.py) |
-| 347 | Medium | <a href="Arrays&Hashing/347TopKFrequentElements.py" style="color: red;">TopKFrequentElements Python</a> |
+| 347 | Medium |   [TopKFrequentElements Python](Arrays&Hashing/347TopKFrequentElements.py) |
 
 **CoreSkills:** 💻
 | Type | Difficulty | Problem name and code|

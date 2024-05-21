@@ -2,7 +2,7 @@
 NeetCode150: 🚀
 | Number | Difficulty | Problem name and code|
 |--------|------------|----------------------|
-| 217 | Easy | [Contains Duplicates](Arrays&Hashing/217ContainsDuplicate.cpp) |
+| 217 | Easy | [Contains Duplicates C++](Arrays&Hashing/217ContainsDuplicate.cpp) [Contains Duplicates Python](Arrays&Hashing/217ContainsDuplicate.py) |
 | 242 | Easy | [Valid Anagram](Arrays&Hashing/242ValidAnagram.cpp) |
 | 1 | Easy | [Two Sum](Arrays&Hashing/1TwoSum.cpp) |
 | 49 | Medium | [Group Anagrams](Arrays&Hashing/49GroupAnagrams.cpp) |

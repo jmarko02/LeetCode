@@ -6,7 +6,7 @@ NeetCode150: 🚀
 | 11 | Medium | [Container With Most Water ](TwoPointers/11ContainerWithMostWater.py) | [ Container With Most Water ](TwoPointers/11ContainerWithMostWater.cpp) |
 | 15 | Medium | [Three Sum ](TwoPointers/15ThreeSum.py) | [Three Sum](TwoPointers/15ThreeSum.cpp) |
 | 36 | Medium | [Valid Sudoku ](Arrays&Hashing/36ValidSudoku.py) | [Valid Sudoku](Arrays&Hashing/36ValidSudoku.cpp) |
-| 42 | Hard | [ Trapping Rain Water ](TwoPointers/42TrappingRainWater.py) | [Trapping Rain Water](42TrappingRainWater/42TrappingRainWater.cpp) |
+| 42 | Hard | [ Trapping Rain Water ](TwoPointers/42TrappingRainWater.py) | [Trapping Rain Water](TwoPointers/42TrappingRainWater.cpp) |
 | 49 | Medium | [Group Anagrams ](Arrays&Hashing/49GroupAnagrams.py) | [Group Anagrams](Arrays&Hashing/49GroupAnagrams.cpp) |
 | 125 | Easy | [Valid Palindrome ](TwoPointers/125ValidPalindrome.py) | [Valid Palindrome](TwoPointers/125ValidPalindrome.cpp) |
 | 128 | Medium | [Longest Consecutive Elements ](Arrays&Hashing/128LongestConsecutiveElements.py) | [Longest Consecutive Elements](Arrays&Hashing/128LongestConsecutiveElements.cpp) |

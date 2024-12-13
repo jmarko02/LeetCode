@@ -2,3 +2,15 @@
 *.xls
 .vscode/
 test.cpp
+*.exe
+*.out
+*.app
+
+
+*.dSYM/
+*.o
+*.obj
+*.code-workspace
+build/
+debug/
+release/

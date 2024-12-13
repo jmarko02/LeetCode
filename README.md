@@ -4,7 +4,7 @@ NeetCode150: 🚀
 |--------|------------|--------|-------|
 | 1 | Easy | [Two Sum ](Arrays&Hashing/1TwoSum.py) | [Two Sum](Arrays&Hashing/1TwoSum.cpp) |
 | 2 | Medium | | [Add Two Numbers ](LinkedLists/2AddTwoNumbers.cpp) |
-| 3 | Medium | [Longest Substring Without Duplicates ](SlidingWindow/LongestSubstringWithoutDuplicates.py) | [Longest Substring Without Duplicates ](SlidingWindow/LongestSubstringWithoutDuplicates.cpp) |
+| 3 | Medium | [Longest Substring Without Duplicates ](SlidingWindow/3LongestSubstringWithoutDuplicates.py) | [Longest Substring Without Duplicates ](SlidingWindow/3LongestSubstringWithoutDuplicates.cpp) |
 | 11 | Medium | [Container With Most Water ](TwoPointers/11ContainerWithMostWater.py) | [ Container With Most Water ](TwoPointers/11ContainerWithMostWater.cpp) |
 | 15 | Medium | [Three Sum ](TwoPointers/15ThreeSum.py) | [Three Sum](TwoPointers/15ThreeSum.cpp) |
 | 19 | Medium | | [Remove Nth Node From End Of List ](LinkedLists/19RemoveNthNodeFromEndOfList.cpp) |
@@ -27,10 +27,10 @@ NeetCode150: 🚀
 | 133 | Medium | | [Clone Graph ](Graphs/133CloneGraph.cpp) |
 | 138 | Medium | | [Copy List With Random Pointer ](LinkedLists/138CopyListWithRandomPointer.cpp) |
 | 141 | Easy | | [Linked List Cycle ](LinkedLists/141LinkedListCycle.cpp) |
-| 143 | Medium | | [Reorder List ](LinkedLists/ReorderList.cpp) |
+| 143 | Medium | | [Reorder List ](LinkedLists/143ReorderList.cpp) |
+| 146 | Medium | | [LRU Cache ](LinkedLists/146LRUCache.cpp) |
 | 150 | Medium | | [Evaluate Reverse Polish Notation ](Stack/150EvaluateRPN.cpp) |
 | 155 | Medium | | [Min Stack](Stack/155MinStack.cpp) |
-| 156 | Medium | | [LRU Cache ](LinkedLists/LRUCache.cpp) |
 | 167 | Medium | [Two Sum II-Input Array Is Sorted ](TwoPointers/167TwoSumII_InputArrayIsSorted.py) | [Two Sum II-Input Array Is Sorted](TwoPointers/167TwoSumII_InputArrayIsSorted.cpp) |
 | 199 | Medium | | [Binary Tree Right Side View](Trees/199BinaryTreeRightSideView.cpp) |
 | 200 | Medium | | [Number of Islands ](Graphs/200NumberOfIslands.cpp) |
@@ -45,7 +45,7 @@ NeetCode150: 🚀
 | 271 | Medium | [Encode And Decode Strings (Premium) ](Arrays&Hashing/271EncodeAndDecodeStrings.py) | [Encode And Decode Strings (Premium) ](Arrays&Hashing/271EncodeAndDecodeStrings.cpp) |
 | 286 | Medium | | [Walls And Gates](Graphs/286WallsAndGates.cpp) |
 | 287 | Medium | | [Find Duplicate Number](LinkedLists/287FindDuplicateNumber.cpp) |
-| 323 | Medium | | [Number Of Conected Components In Undirected Graph ](Graphs/323NumberOfConectedComponentsInUndirectedGraph.cpp) |
+| 323 | Medium | | [Number Of Conected Components In Undirected Graph ](Graphs/323NumberOfConnectedComponentsInUndirectedGraph.cpp) |
 | 347 | Medium |   [Top K Frequent Elements ](Arrays&Hashing/347TopKFrequentElements.py) |  [Top K Frequent Elements ](Arrays&Hashing/347TopKFrequentElements.cpp) |
 | 424 | Medium | [Longest Repeating Character Replacement ](SlidingWindow/424LongestRepeatingCharacterReplacement.py) | |
 | 543 | Easy | | [Diameter Of Binary Tree](Trees/543DiameterOfBinaryTree.cpp) |
@@ -54,7 +54,7 @@ NeetCode150: 🚀
 | 695 | Medium | | [Max Area Of Island ](Graphs/695MaxAreaOfIsland.cpp) |
 | 739 | Medium | | [Daily Temperatures ](Stack/739DailyTemperatures.cpp) |
 | 853 | Medium | | [Car Fleet](Stack/853CarFleet.cpp) |
-| 994 | Medium | | [Rotting Oranges ](Graphs/994MaxAreaOfIsland.cpp) |
+| 994 | Medium | | [Rotting Oranges ](Graphs/994RottingOranges.cpp) |
 | 1448 | Medium | | [Count Good Nodes In Binary Tree](Trees/1448CountGoodNodesInBinaryTree.cpp) |
 
 

@@ -1,3 +1,21 @@
+
+#include <memory>
+#include <string>
+
+using namespace std;
+
+class ICoffee 
+{
+    public:
+     ICoffee(string _) {}
+};
+
+class SingleOriginCoffee: public ICoffee {
+    public:
+    SingleOriginCoffee(string _): ICoffee(_) {}
+};
+
+
 // Traditional way with raw pointers
 void someFunction() {
     ICoffee* coffee = new SingleOriginCoffee("Ethiopia");
@@ -10,10 +28,6 @@ void someFunction() {
     // 3. Delete twice (crash)
     // 4. Use after delete (undefined behavior)
 }
-class ICoffee;
-class SingleOriginCoffee;
-using namespace std
-#include <memory>
 
 void someFunction() {
     std::unique_ptr<ICoffee> coffee = 
@@ -42,8 +56,10 @@ auto coffee = std::make_unique<SingleOriginCoffee>("Ethiopia");
 void processCoffe(std::unique_ptr<ICoffee> coffee) {
     // Function takes ownership
 }
-processCoffe(std::move(coffee));  // Must move, can't copy
 
+void doProcess() {
+    processCoffe(std::move(coffee));  // Must move, can't copy
+}
 // As class member:
 class CoffeeShop {
 private:
@@ -60,11 +76,11 @@ void benefits() {
     } // coffee is automatically deleted here
 
     // 2. Exception safety
-    void riskyFunction() {
-        auto coffee = std::make_unique<SingleOriginCoffee>("Ethiopia");
-        throw std::runtime_error("Something went wrong!");
-        // coffee still gets deleted!
-    }
+    // void riskyFunction() {
+    //     auto coffee = std::make_unique<SingleOriginCoffee>("Ethiopia");
+    //     throw std::runtime_error("Something went wrong!");
+    //     // coffee still gets deleted!
+    // }
 
     // 3. Clear ownership semantics
     auto coffee1 = std::make_unique<SingleOriginCoffee>("Ethiopia");
